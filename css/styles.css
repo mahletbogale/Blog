@@ -93,7 +93,27 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow:  5px 5px 5px rgba(68, 68, 68, 0.6); 
   width: 400px;
   height: 400px;
+  margin-bottom: 20px;
 }
+.para{
+  background-color: var(--red);
+  height: 60px;
+  margin-bottom: 0px;
+  color: white;
+}
+.para2{
+  background-color: navy;
+  height: 50px;
+  margin-bottom: 0px;
+  color: white;
+}
+.para3{
+  background-color:teal;
+  height: 30px;
+  margin-bottom: 0px;
+  color: white;
+}
+
 
 p {
   margin-top: 0;
