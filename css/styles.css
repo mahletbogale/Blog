@@ -83,6 +83,17 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0.5rem;
 }
+.mycontainer{
+  display:grid;
+ 
+  grid-template-columns:repeat(2 ,1fr);
+
+}
+ .pro{
+  box-shadow:  5px 5px 5px rgba(68, 68, 68, 0.6); 
+  width: 400px;
+  height: 400px;
+}
 
 p {
   margin-top: 0;
